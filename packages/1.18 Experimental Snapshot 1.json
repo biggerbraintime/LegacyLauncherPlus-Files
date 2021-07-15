@@ -136,7 +136,7 @@
       "url": "https://launcher.mojang.com/v1/objects/3842b0e3eef95054f464d5de410f774ecead9f0f/server.txt"
     }
   },
-  "id": "1.18_experimental-snapshot-1",
+  "id": "1.18 Experimental Snapshot 1",
   "javaVersion": {
     "component": "java-runtime-alpha",
     "majorVersion": 16
