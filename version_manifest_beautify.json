@@ -3987,6 +3987,13 @@
       "time": "2019-06-28T07:05:39+00:00",
       "releaseTime": "2010-09-19T22:00:00+00:00"
     },
+	{
+      "id": "a1.1.1",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.1.1.json",
+      "time": "2019-06-28T07:05:39+00:00",
+      "releaseTime": "2010-09-12T22:00:00+00:00"
+    },
     {
       "id": "a1.1.0",
       "type": "old_alpha",
