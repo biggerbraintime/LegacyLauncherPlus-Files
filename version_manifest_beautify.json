@@ -3805,6 +3805,13 @@
       "time": "2019-06-28T07:05:43+00:00",
       "releaseTime": "2011-02-22T22:00:00+00:00"
     },
+	{
+      "id": "b1.3 PC Gamer Demo",
+      "type": "old_beta",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/b1.3%20PC%20Gamer%20Demo.json",
+      "time": "2019-06-28T07:05:43+00:00",
+      "releaseTime": "2011-06-21T22:00:00+00:00"
+    },
     {
       "id": "b1.3b",
       "type": "old_beta",
