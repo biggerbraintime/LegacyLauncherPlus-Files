@@ -3966,6 +3966,13 @@
       "time": "2019-06-28T07:05:40+00:00",
       "releaseTime": "2010-11-04T22:00:00+00:00"
     },
+	{
+      "id": "a1.2.0_02-launcher",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.2.0_02-launcher.json",
+      "time": "2019-06-28T07:05:40+00:00",
+      "releaseTime": "2010-11-03T22:00:01+00:00"
+    },
     {
       "id": "a1.2.0_02",
       "type": "old_alpha",
@@ -3983,7 +3990,7 @@
     {
       "id": "a1.2.0",
       "type": "old_alpha",
-      "url": "https://launchermeta.mojang.com/v1/packages/a0e7c34fba8c11fa8b84a56a01ed8505ad34b52a/a1.2.0.json",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.2.0.json",
       "time": "2019-06-28T07:05:39+00:00",
       "releaseTime": "2010-10-29T22:00:00+00:00"
     },
