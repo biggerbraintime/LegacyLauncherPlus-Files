@@ -4064,6 +4064,55 @@
       "time": "2019-06-28T07:05:38+00:00",
       "releaseTime": "2010-07-22T22:00:00+00:00"
     },
+	{
+      "id": "a1.0.10",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.0.10.json",
+      "time": "2019-06-28T07:05:38+00:00",
+      "releaseTime": "2010-07-22T21:00:00+00:00"
+    },
+	{
+      "id": "a1.0.9",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.0.9.json",
+      "time": "2019-06-28T07:05:38+00:00",
+      "releaseTime": "2010-07-21T22:00:00+00:00"
+    },
+	{
+      "id": "a1.0.8_01",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.0.8_01.json",
+      "time": "2019-06-28T07:05:38+00:00",
+      "releaseTime": "2010-07-20T22:00:00+00:00"
+    },
+	{
+      "id": "a1.0.7",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.0.8_01.json",
+      "time": "2019-06-28T07:05:38+00:00",
+      "releaseTime": "2010-07-19T22:00:00+00:00"
+    },
+	{
+      "id": "a1.0.6_03",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.0.6_03.json",
+      "time": "2019-06-28T07:05:38+00:00",
+      "releaseTime": "2010-07-17T22:00:00+00:00"
+    },
+	{
+      "id": "a1.0.6_01",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.0.6_01.json",
+      "time": "2019-06-28T07:05:38+00:00",
+      "releaseTime": "2010-07-17T21:00:00+00:00"
+    },
+	{
+      "id": "a1.0.6",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.0.6.json",
+      "time": "2019-06-28T07:05:38+00:00",
+      "releaseTime": "2010-07-16T22:00:00+00:00"
+    },
     {
       "id": "a1.0.5_01",
       "type": "old_alpha",
