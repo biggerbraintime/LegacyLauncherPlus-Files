@@ -3840,6 +3840,20 @@
       "time": "2019-06-28T07:05:43+00:00",
       "releaseTime": "2010-12-21T22:00:00+00:00"
     },
+	{
+      "id": "b1.1-1255",
+      "type": "old_beta",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/b1.1-1255.json",
+      "time": "2019-06-28T07:05:43+00:00",
+      "releaseTime": "2010-12-21T22:00:00+00:00"
+    },
+	{
+      "id": "b1.1-1245",
+      "type": "old_beta",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/b1.1-1245.json",
+      "time": "2019-06-28T07:05:43+00:00",
+      "releaseTime": "2010-12-21T22:00:00+00:00"
+    },
     {
       "id": "b1.0.2",
       "type": "old_beta",
