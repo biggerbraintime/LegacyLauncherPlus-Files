@@ -310,7 +310,7 @@
   "mainClass": "net.minecraft.launchwrapper.Launch",
   "minecraftArguments": "${auth_player_name} ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets} --tweakClass net.minecraft.launchwrapper.AlphaVanillaTweaker",
   "minimumLauncherVersion": 7,
-  "releaseTime": "2010-08-23T00:00:00+00:00",
-  "time": "2010-08-23T00:00:00+00:00",
+  "releaseTime": "2010-08-22T00:00:00+00:00",
+  "time": "2010-08-22T00:00:00+00:00",
   "type": "old_alpha"
 }
