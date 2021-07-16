@@ -4029,12 +4029,33 @@
       "time": "2019-06-28T07:05:39+00:00",
       "releaseTime": "2010-08-22T22:00:00+00:00"
     },
+	{
+      "id": "a1.0.17_03",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.0.17_03.json",
+      "time": "2019-06-28T07:05:38+00:00",
+      "releaseTime": "2010-08-23T00:00:00+00:00"
+    },
     {
       "id": "a1.0.17_02",
       "type": "old_alpha",
       "url": "https://launchermeta.mojang.com/v1/packages/54d1b6731a61a0b513ec0f677b58249be6c94086/a1.0.17_02.json",
       "time": "2019-06-28T07:05:39+00:00",
       "releaseTime": "2010-08-19T22:00:00+00:00"
+    },
+	{
+      "id": "a1.0.16_02",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.0.16_02.json",
+      "time": "2019-06-28T07:05:38+00:00",
+      "releaseTime": "2010-08-13T22:00:00+00:00"
+    },
+	{
+      "id": "a1.0.16_01",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.0.16_01.json",
+      "time": "2019-06-28T07:05:38+00:00",
+      "releaseTime": "2010-08-12T22:00:00+00:00"
     },
     {
       "id": "a1.0.16",
@@ -4056,6 +4077,34 @@
       "url": "https://launchermeta.mojang.com/v1/packages/eff58a647f38df437241e769a9703baa40e0efd8/a1.0.14.json",
       "time": "2019-06-28T07:05:38+00:00",
       "releaseTime": "2010-07-29T22:00:00+00:00"
+    },
+	{
+      "id": "a1.0.13_01-1k24h",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.0.13_01-1k24h.json",
+      "time": "2019-06-28T07:05:38+00:00",
+      "releaseTime": "2010-07-29T22:00:00+00:00"
+    },
+	{
+      "id": "a1.0.13_01",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.0.13_01.json",
+      "time": "2019-06-28T07:05:38+00:00",
+      "releaseTime": "2010-07-29T21:00:00+00:00"
+    },
+	{
+      "id": "a1.0.13",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.0.13.json",
+      "time": "2019-06-28T07:05:38+00:00",
+      "releaseTime": "2010-07-28T21:00:00+00:00"
+    },
+	{
+      "id": "a1.0.12",
+      "type": "old_alpha",
+      "url": "https://raw.githubusercontent.com/biggerbraintime/LegacyLauncherPlus-Files/main/packages/a1.0.12.json",
+      "time": "2019-06-28T07:05:38+00:00",
+      "releaseTime": "2010-07-26T21:00:00+00:00"
     },
     {
       "id": "a1.0.11",
